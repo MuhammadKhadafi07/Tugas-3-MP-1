@@ -1,0 +1,49 @@
+<resources>
+    <string name="app_name">Warung Khadafi Part3</string>
+
+    //SimpleActivity>warung_khadafi_part1
+    <string name="app_name2">warung khadafi</string>
+    <string name="profile_post_count">4</string>
+    <string name="profile_pengikut">Pengikut</string>
+    <string name="profile_mengikuti">Mengikuti</string>
+    <string name="profile_post">Postingan</string>
+    <string name="profile_pengikut_count">207</string>
+    <string name="profle_pengikut_count">245</string>
+    <string name="profile_username">Muhammad Khadafi</string>
+    <string name="profile_bio">Hallooo guys, Assalamualaikum</string>
+    <string name="btn_pesan">Kirim Pesan</string>
+    <string name="btn_telpon">Telepon</string>
+    <string name="ikuti">Ikuti</string>
+    <string name="backsimple">TODO</string>
+    <string name="menusimple">TODO</string>
+
+    //ExplicitIntentActivity>warung_khadafi_part2
+    <string name="harga">Rp 3.690.000</string>
+    <string name="_7_photos">7 Photos</string>
+    <string name="deskripsi">Xiaomi Redmi 9 Pro merupakan HP kelas menengah yang dilengkapi dengan chipset Snapdragon 720G serta GPU unggulan, Adreno 618. Kombinasi RAM besar, Snapdragon seri G, dan GPU unggulan, membuat HP ini bisa menjdai pilihan tepat untuk Anda yang mencari HP gaming dengan harga yang murah.abar baik, harga HP Redmi Note 9 Pro kini sudah semakin murah</string>
+    <string name="desc1">Body</string>
+    <string name="desc2">Dimensi 165.8 x 76.7 x 8.8 mm \nBobot 209 g</string>
+    <string name="desc3">Layar</string>
+    <string name="desc4">6.67 inci\n2400 x 1080 FHD+\nLCD IPS</string>
+    <string name="desc5">Chipset n OS</string>
+    <string name="desc6">Chipset Qualcomm Snapdragon 720G GPU Adreno 618 Android 10, MIUI 11</string>
+    <string name="desc7">Memori</string>
+    <string name="desc8">6GB RAM + 64GB ROM\n8GB RAM + 128GB ROM\nmicroSD hingga 512GB</string>
+    <string name="desc9">Xiaomi Redmi Note 9 Pro 8/128 GB</string>
+    <string name="todo">TODO</string>
+    <string name="todo2">TODO2</string>
+    <string name="tombol_menu">TODO3</string>
+    <string name="tombolcartreal">TODO4</string>
+    <string name="desc10">Kamera Utama</string>
+    <string name="desc11">Quad camera 64MP, f/1.9, 26mm (wide); 8MP, f/2.2, 119˚ (ultrawide); 5MP, f/2.4, (macro); 2MP, f/2.4, (depth) \nResolusi video 4K@30fps, 1080p@30/60/120fps, 720p@960fps</string>
+    <string name="desc12">Kamera Depan</string>
+    <string name="desc13">Single 16MP, f/2.5, (wide) \nResolusi video 1080p@30/120fps</string>
+    <string name="desc14">Baterai</string>
+    <string name="desc15">5.020 mAh \nFast charging 33W</string>
+    <string name="desc16">Fitur</string>
+    <string name="desc17">USB Type-C \nSensor sidik jari \nDual SIM AI Face unlock \n3,5mm jack headphone</string>
+    <string name="tombol_beli">Buy Now</string>
+    <string name="tombol_tocart">Add To Cart</string>
+    <string name="tombol_chat">TODO</string>
+</resources>
+
