@@ -27,9 +27,9 @@ class ResultActivity : AppCompatActivity() {
                     R.id.rad_merah -> value = "#ff0000"
                 }
                 Log.d("Selected Color", value.toString())
-                val resulIntent = Intent()
-                resulIntent.putExtra(EXTRA_COLOR, value)
-                setResult(200, resulIntent)
+                val resultIntent = Intent()
+                resultIntent.putExtra(EXTRA_COLOR, value)
+                setResult(200, resultIntent)
                 finish()
             }
         }
